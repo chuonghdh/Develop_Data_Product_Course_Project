@@ -76,7 +76,7 @@ Different methods will bring different accuracy rates and request different time
 * Partition for Training Dataset = .75
 * Number of Folder for CV = 5
 
-<p style="font-size:60%; color:blue;"> Note: due to course project requirement #4, the executable embedded R code is located here. Evaluator can check "Reproducible Pitch Presentation.Rmd" file for more detail </p>
+<p style="font-size:60%; color:blue;"> Note: due to course project requirement #4, the executable embedded R code is located here. Evaluator can check <a>https://github.com/chuonghdh/Develop_Data_Product_Course_Project/blob/master/Reproducible%20Pitch/index.Rmd</a> file for more detail </p>
 
 ```{r, results='hide', echo=FALSE, message=FALSE}
 # Initialize
