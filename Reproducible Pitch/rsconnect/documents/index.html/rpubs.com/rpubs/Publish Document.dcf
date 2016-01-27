@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/147020/ce2d472aa688441fa63b1ef5ab3b6312
+url: http://rpubs.com/chuonghdh/147020
+when: 1453871030.19941

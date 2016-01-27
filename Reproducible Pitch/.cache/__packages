@@ -1,0 +1,14 @@
+base
+slidify
+shiny
+lattice
+ggplot2
+caret
+randomForest
+rpart
+survival
+gbm
+MASS
+klaR
+e1071
+plyr
